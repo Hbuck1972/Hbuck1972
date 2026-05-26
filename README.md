@@ -20,7 +20,7 @@ IT Support and Network Administration professional transitioning into AI-assiste
 - Windows Server
 - Active Directory
 - Exchange
-- VSphere
+- vSphere
 - Wireless Networking
 - Field Technical Support
 
