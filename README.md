@@ -1,16 +1,29 @@
-## Hi there 👋
+# Heath Buckley
 
-<!--
-**Hbuck1972/Hbuck1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support and Network Administration professional transitioning into AI-assisted automation and Python workflow development.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Remote IT Support
+- LAN/WAN Troubleshooting
+- Active Directory and Windows Server Support
+- Python Automation
+- AI Workflow Automation
+- Email and PDF Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Client Email & PDF Organizer
+- AI Skills Portfolio Website
+
+## Technical Background
+- Network Administration
+- LAN/WAN Troubleshooting
+- Windows Server
+- Active Directory
+- Exchange
+- VSphere
+- Wireless Networking
+- Field Technical Support
+
+## Contact
+Email: heathbuckley@outlook.com  
+LinkedIn: www.linkedin.com/in/heath-buckley-85609687
